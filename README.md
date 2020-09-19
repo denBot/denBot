@@ -4,4 +4,5 @@
 
 You can reach me on [Discord](https://discord.com/new) at **den#9999**
 
-I’m currently working as a Software Engineering Intern with [FreeToBook](https://en.freetobook.com/).
+#### Some Recent Events:
+- Between 01/06/20 and 10/09/20, I interened as a Software Engineer with [FreeToBook](https://en.freetobook.com/).
